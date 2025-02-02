@@ -1,9 +1,21 @@
 <h1 align="center">Hi 👋, I'm Tirth Asodariya</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **AI - Machine learning**
+
+
+- 🚀 AI/ML Enthusiast | Final Year Student
+
+- 🎓 Pursuing AI/ML in my 4th year
+  
+- 🤖 Exploring Machine Learning, Deep Learning & AI applications
+  
+- 💡 Passionate about solving real-world problems with data
 
 - 📫 How to reach me **tirthasodariya001@gmail.com**
+  
+- 📚 Always learning, always experimenting
+  
+- 🌱 Open to collaborations & new opportunities
 
 - ⚡ Fun fact **Programming isn't about what you know; it's about what you can figure out.**
 
